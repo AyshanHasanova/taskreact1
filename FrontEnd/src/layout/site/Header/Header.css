@@ -1,0 +1,27 @@
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 20px 350px;
+    background-color: #ecfdff;
+
+}
+nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+   
+}
+nav ul li{
+    font-size: 20px;
+}
+.header-right {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: 20px;
+}
